@@ -1,0 +1,2 @@
+- name: Start SSHX debug session
+  run: curl -sSf https://sshx.io/get | sh -s run
